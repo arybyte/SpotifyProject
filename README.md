@@ -1,2 +1,2 @@
-# SpotifyProject
+# MusicProject
 Music Project
